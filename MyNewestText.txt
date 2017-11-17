@@ -1,0 +1,3 @@
+hello i forked this project and cloned it to my local machine .now addinf this new text file into it 
+to see the add and  commit and push it to the remote forked repo.and eventually i want to send a pull/merge reguest to the owner of this 
+original repo.smile..
